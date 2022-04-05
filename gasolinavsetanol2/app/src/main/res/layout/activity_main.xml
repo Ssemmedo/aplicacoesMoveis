@@ -19,8 +19,7 @@
         android:id="@+id/edtGasolina"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Coloca o preço da Gasolina"
-        android:autofillHints="" />
+        android:hint="Coloca o preço da Gasolina"/>
     <EditText
         android:id="@+id/edtEtanol"
         android:layout_width="match_parent"

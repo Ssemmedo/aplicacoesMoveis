@@ -18,13 +18,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        edtEtanol = findViewById(R.id.edtEtanol);
-        edtGasolina = findViewById(R.id.edtGasolina);
-        btnCalcular = findViewById(R.id.btnCalc);
-        txtResultado = findViewById(R.id.resultado);
-
-
-
+        carregaComponentes();
 
         btnCalcular.setOnClickListener(view -> {
             double percentagem;
@@ -46,9 +40,14 @@ public class MainActivity extends AppCompatActivity {
             edtGasolina.setText("");
             edtGasolina.requestFocus();
             edtEtanol.requestFocus();
-
         });
-
-
     }
+
+    void carregaComponentes(){
+        edtEtanol = findViewById(R.id.edtEtanol);
+        edtGasolina = findViewById(R.id.edtGasolina);
+        btnCalcular = findViewById(R.id.btnCalc);
+        txtResultado = findViewById(R.id.resultado);
+    }
+
 }
