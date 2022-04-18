@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">recyclerView</string>
+    <string-array name="programming_languages">
+        <item>C#</item>
+        <item>Pytohn</item>
+        <item>Java</item>
+        <item>Javascript</item>
+        <item>PHP</item>
+        <item>Typescript</item>
+        <item>C</item>
+        <item>Kotlin</item>
+        <item>React Native</item>
+        <item>SQL</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Microsoft Office</item>
+        <item>Spotify</item>
+        <item>Wikipedia</item>
+        <item>Netflix</item>
+        <item>Sites</item>
+        <item>Typescript</item>
+        <item>Adobe Photoshop</item>
+        <item>Pinterest</item>
+        <item>Airbnb (mobile)</item>
+        <item>Banco de Dados</item>
+    </string-array>
+
+</resources>
