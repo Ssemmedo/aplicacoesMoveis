@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Angelo/AndroidStudioProjects/SQLite/app/src/main/res/layout/activity_create_user.xml" value="0.5828220858895705" />
+        <entry key="..\:/Users/Angelo/AndroidStudioProjects/SQLite/app/src/main/res/layout/activity_dashboard.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/Angelo/AndroidStudioProjects/SQLite/app/src/main/res/layout/activity_list_users.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/Angelo/AndroidStudioProjects/SQLite/app/src/main/res/layout/activity_login.xml" value="0.67" />
+        <entry key="..\:/Users/Angelo/AndroidStudioProjects/SQLite/app/src/main/res/layout/card_users.xml" value="0.32447916666666665" />
+        <entry key="..\:/Users/Angelo/AndroidStudioProjects/SQLite/app/src/main/res/menu/menu.xml" value="0.5" />
+        <entry key="..\:/Users/Angelo/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/ssemd/AndroidStudioProjects/sqlite/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/ssemd/AndroidStudioProjects/sqlite/app/src/main/res/layout/activity_dashboard.xml" value="0.25" />
+        <entry key="..\:/Users/ssemd/AndroidStudioProjects/sqlite/app/src/main/res/layout/activity_float_button.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ssemd/AndroidStudioProjects/sqlite/app/src/main/res/layout/activity_list_users.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ssemd/AndroidStudioProjects/sqlite/app/src/main/res/layout/activity_login.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ssemd/AndroidStudioProjects/sqlite/app/src/main/res/layout/card_view.xml" value="0.33" />
+        <entry key="..\:/Users/ssemd/AndroidStudioProjects/sqlite/app/src/main/res/layout/test.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
